@@ -1,0 +1,1 @@
+# webpack-merge-bug-webpack2-rules
