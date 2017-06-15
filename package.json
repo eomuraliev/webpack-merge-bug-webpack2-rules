@@ -1,0 +1,22 @@
+{
+  "name": "webpack-merge-bug-webpack2-rules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eomuraliev/webpack-merge-bug-webpack2-rules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eomuraliev/webpack-merge-bug-webpack2-rules/issues"
+  },
+  "homepage": "https://github.com/eomuraliev/webpack-merge-bug-webpack2-rules#readme",
+  "dependencies": {
+    "webpack-merge": "^4.1.0"
+  }
+}
